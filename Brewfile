@@ -11,6 +11,7 @@ cask 'kitematic'
 cask 'iterm2'
 cask 'jumpcut'
 cask 'screenhero'
+cask 'java'
 
 mas 'Numbers', id: 409203825
 mas 'Pages', id: 409201541
